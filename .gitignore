@@ -1,4 +1,6 @@
 .vscode
+CMakeFiles
+CMakeCache.txt
 build
-package.xml
+# package.xml
 __pycache__
