@@ -8,6 +8,7 @@
 
   <!-- Common ROS 1 / ROS 2 dependencies -->
   <build_depend>ros_environment</build_depend>
+  <build_depend>livox_sdk2_ros</build_depend>
 
   <!-- ROS1 dependencies -->
   <buildtool_depend condition="$ROS_VERSION == 1">catkin</buildtool_depend>
